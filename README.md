@@ -12,7 +12,7 @@
     Game built with JavaScript by using functions as a next page
     <br />
     <br />
-    <a href="https://glossy-charmed-soil.glitch.me/">View project live on Glitch</a>
+    <a href="https://spotless-aerial-aspen.glitch.me/">View project live on Glitch</a>
   </p>
 </div>
 
